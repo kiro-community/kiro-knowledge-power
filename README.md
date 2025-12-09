@@ -21,7 +21,7 @@ Set environment variable:
 
 1. Open Powers panel in Kiro
 2. Click **Add Custom Power** -> **Import power from GitHub**
-3. Enter this repository's URL: `https://github.com/kiro-community/kiro-knowledge-power`
+3. Enter the URL of this power: `https://github.com/kiro-community/kiro-knowledge-power/tree/main/kiro-knowledge`
 
 ## Usage
 
