@@ -2,17 +2,7 @@
 name: "kiro-knowledge"
 displayName: "Kiro Knowledge Base Assistant"
 description: "Automatically query Kiro IDE and CLI official documentation, community knowledge base and GitHub Issues to provide accurate answers to your Kiro questions"
-keywords:
-  [
-    "kiro",
-    "kiro ide",
-    "kiro cli",
-    "troubleshooting",
-    "issues",
-    "help",
-    "documentation",
-    "how to",
-  ]
+keywords: ["kiro", "kiro ide", "kiro cli", "troubleshooting"]
 ---
 
 # Kiro Knowledge Base Assistant
