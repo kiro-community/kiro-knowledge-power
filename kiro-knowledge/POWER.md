@@ -9,31 +9,36 @@ keywords: ["kiro", "kiro ide", "kiro cli", "troubleshooting", "issue"]
 
 Automatically query multiple knowledge sources and provide structured answers when users ask Kiro-related questions.
 
-## Onboarding
+## Workflow
+
+You MUST follow the steps below, NEVER skip any step.
 
 ### Step 1: Analyze Question
 
-- Determine if it's a Kiro IDE or Kiro CLI issue
+- You MUST determine if it's a Kiro IDE or Kiro CLI issue
+- If you are not sure, you MUST ask the user
 - Extract keywords and question type
 
 ### Step 2: Query Knowledge Base
+
+You MUST follow the workflows below based on question type:
 
 - Query Kiro IDE issues → `steering/kiro-ide-workflow.md`
 - Query Kiro CLI issues → `steering/kiro-cli-workflow.md`
 
 ### Step 3: Search GitHub Issues
 
-If knowledge base has no answer:
+ONLY If knowledge base above has no answer:
 
 - GitHub Issues search → `steering/github-search-workflow.md`
 
 ### Step 4: Web Search
 
-If still no answer, use **fetch** for web search
+ONLY If still no answer, use **fetch** for web search
 
 ### Step 5: Format Output
 
-Output in the following format:
+MUST output in the following format:
 
 ```
 Problem Description: [User's question]
