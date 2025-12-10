@@ -8,7 +8,7 @@ Follow this workflow when users ask Kiro IDE related questions.
 
 **URL**: https://kiro.dev/docs/troubleshooting/
 
-**Query Method**: Use **fetch** MCP to retrieve content. If fails, use **chrome-devtools** to open page.
+**Query Method**: Use **fetch** MCP to retrieve content.
 
 ### 2. Official Documentation
 
@@ -16,7 +16,7 @@ Follow this workflow when users ask Kiro IDE related questions.
 
 Complete feature documentation.
 
-**Query Method**: Use **fetch** MCP to retrieve content. If fails, use **chrome-devtools** to open page.
+**Query Method**: Use **fetch** MCP to retrieve content.
 
 ### 3. Book of Kiro (Community Knowledge Base)
 
@@ -25,3 +25,5 @@ Complete feature documentation.
 Community knowledge base.
 
 **Query Method**: Use **fetch** MCP to retrieve relevant sections.
+
+IMPORTANT: This is a long documentation. You MUST read through the whole documentation to find relevant content.

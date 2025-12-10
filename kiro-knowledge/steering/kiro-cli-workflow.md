@@ -8,7 +8,7 @@ Follow this workflow when users ask Kiro CLI related questions.
 
 **URL**: https://kiro.dev/docs/cli/
 
-**Query Method**: Use **fetch** MCP to retrieve documentation. If fails, use **chrome-devtools** to open page.
+**Query Method**: Use **fetch** tool to retrieve documentation.
 
 ### 2. Book of Kiro (Community Knowledge Base)
 
@@ -16,4 +16,6 @@ Follow this workflow when users ask Kiro CLI related questions.
 
 Community knowledge base.
 
-**Query Method**: Use **fetch** MCP to retrieve relevant sections.
+**Query Method**: Use **fetch** tool to retrieve relevant sections.
+
+IMPORTANT: This is a long documentation, and Kiro CLI related content is at the middle to bottom. You MUST read through the whole documentation to find relevant content.

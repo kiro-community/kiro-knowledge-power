@@ -15,7 +15,8 @@ Automatically query Kiro IDE and CLI official documentation, community knowledge
 
 Set environment variable:
 
-- `GITHUB_PERSONAL_ACCESS_TOKEN`
+- `GITHUB_PERSONAL_ACCESS_TOKEN` - to search GitHub Issues
+- `BRAVE_API_KEY` - to use Brave Search MCP
 
 ### Install Power
 
