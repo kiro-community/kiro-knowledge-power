@@ -32,10 +32,6 @@ ONLY If knowledge base above has no answer:
 
 - GitHub Issues search → `steering/github-search-workflow.md`
 
-### Step 4: Web Search
-
-ONLY If still no answer, use **fetch** for web search
-
 ### Step 5: Format Output
 
 MUST output in the following format:
