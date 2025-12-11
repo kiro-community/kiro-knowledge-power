@@ -33,9 +33,9 @@ https://github.com/kiro-community/kiro-knowledge-power/tree/main/kiro-knowledge
 Simply ask questions in Kiro, and the Power will activate automatically:
 
 ```
-"How to fix Kiro IDE Python plugin not loading?"
-"How to use the kiro spec create command?"
-"How to configure custom MCP servers in Kiro?"
+"How to restore to default agent in Kiro CLI?"
+"How to pass parameters for prompts in Kiro CLI?"
+"How to checkout logs for Kiro CLI?"
 ```
 
 ## Knowledge Base Sources
