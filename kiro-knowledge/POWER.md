@@ -5,40 +5,36 @@ description: "Automatically query Kiro IDE and CLI official documentation, commu
 keywords: ["kiro", "kiro ide", "kiro cli", "troubleshooting", "issue"]
 ---
 
-# Kiro Knowledge Base Assistant
+# Onboarding
 
-Automatically query multiple knowledge sources and provide structured answers when users ask Kiro-related questions.
+YOU MUST FOLLOW THE STEPS BELOW, NEVER SKIP ANY STEP.
 
-## Workflow
-
-You MUST follow the steps below, NEVER skip any step.
-
-### Step 1: Analyze Question
+## Step 1: Analyze Question
 
 - You MUST determine if it's a Kiro IDE or Kiro CLI issue
 - If you are not sure, you MUST ask the user
 - Extract keywords and question type
 
-### Step 2: Query Knowledge Base
+## Step 2: Query Knowledge Base
 
-You MUST follow the workflows below based on question type:
+YOU MUST FOLLOW THE WORKFLOWS BELOW BASED ON QUESTION TYPE:
 
 - Query Kiro IDE issues → `steering/kiro-ide-workflow.md`
 - Query Kiro CLI issues → `steering/kiro-cli-workflow.md`
 
-### Step 3: Search GitHub Issues
+## Step 3: Search GitHub Issues
 
-ONLY If knowledge base above has no answer:
+ONLY IF KNOWLEDGE BASE ABOVE HAS NO ANSWER:
 
 - GitHub Issues search → `steering/github-search-workflow.md`
 
-### Step 4: Web Search
+## Step 4: Web Search
 
-ONLY If still no answer, use web search
+ONLY IF STILL NO ANSWER, use web search
 
-### Step 5: Format Output
+## Step 5: Format Output
 
-MUST output in the following format:
+MUST OUTPUT IN THE FOLLOWING FORMAT:
 
 ```
 Problem Description: [User's question]
@@ -50,11 +46,3 @@ Reference Documentation:
 [1]: [Document link]
 [2]: [Document link]
 ```
-
-## Important Rules
-
-1. **Priority Order**: Official documentation > Community knowledge base > GitHub Issues > Web search
-2. **Language Processing**: GitHub Issues are mostly in English, appropriate translation needed
-3. **Content Verification**: Ensure answers come from reliable sources
-4. **Link References**: Must provide reference documentation links
-5. **Structured Output**: Strictly follow output format
