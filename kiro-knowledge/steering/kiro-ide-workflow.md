@@ -20,7 +20,7 @@ Complete feature documentation.
 
 ### 3. Book of Kiro (Community Knowledge Base)
 
-**URL**: https://kiro-community.github.io/book-of-kiro/features/troubleshooting/
+**URL**: https://kiro-community.github.io/book-of-kiro/kiro-ide/troubleshooting/
 
 Community knowledge base.
 

@@ -12,10 +12,10 @@ Follow this workflow when users ask Kiro CLI related questions.
 
 ### 2. Book of Kiro (Community Knowledge Base)
 
-**URL**: https://kiro-community.github.io/book-of-kiro/features/troubleshooting/
+**URL**: https://kiro-community.github.io/book-of-kiro/kiro-cli/troubleshooting/
 
 Community knowledge base.
 
 **Query Method**: Use **fetch** tool to retrieve relevant sections.
 
-IMPORTANT: This is a long documentation, and Kiro CLI related content is at the middle to bottom. You MUST read through the whole documentation to find relevant content.
+IMPORTANT: This is a long documentation. You MUST read through the whole documentation to find relevant content.
